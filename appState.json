@@ -11,7 +11,7 @@
         "isRemovable": true,
         "filePath": "CircularDefTest.js",
         "cursor": {
-          "lineNumber": 3,
+          "lineNumber": 2,
           "column": 32
         },
         "config": {
@@ -34,9 +34,9 @@
         "children": [],
         "isRemovable": true,
         "filePath": "util.js",
-        "lastUpdated": 1607338373095,
+        "lastUpdated": 1607338476803,
         "cursor": {
-          "lineNumber": 1,
+          "lineNumber": 2,
           "column": 1
         }
       },
@@ -49,10 +49,10 @@
         "children": [],
         "isRemovable": true,
         "filePath": "dep1.js",
-        "lastUpdated": 1607338378140,
+        "lastUpdated": 1607338525284,
         "cursor": {
           "lineNumber": 1,
-          "column": 1
+          "column": 35
         }
       },
       "c7419cfc-419a-45a6-866b-9f5ae3b68a69": {
@@ -77,7 +77,7 @@
       "773ab51f-4960-4f9d-b650-91f715678acc",
       "c7419cfc-419a-45a6-866b-9f5ae3b68a69"
     ],
-    "currentFileId": "635fe069-fcf6-417a-b46c-1ed586aded0a",
+    "currentFileId": "773ab51f-4960-4f9d-b650-91f715678acc",
     "resources": {},
     "customTemplate": {
       "syntax": "JSON",
@@ -108,7 +108,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1607338443155
+    "lastSave": 1607338529781
   },
   "VCS_STATE": {
     "provider": "GitHub",
