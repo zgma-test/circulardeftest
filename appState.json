@@ -34,10 +34,10 @@
         "children": [],
         "isRemovable": true,
         "filePath": "util.js",
-        "lastUpdated": 1607338476803,
+        "lastUpdated": 1607339009464,
         "cursor": {
-          "lineNumber": 2,
-          "column": 1
+          "lineNumber": 1,
+          "column": 27
         }
       },
       "773ab51f-4960-4f9d-b650-91f715678acc": {
@@ -49,10 +49,10 @@
         "children": [],
         "isRemovable": true,
         "filePath": "dep1.js",
-        "lastUpdated": 1607338525284,
+        "lastUpdated": 1607338985725,
         "cursor": {
-          "lineNumber": 1,
-          "column": 35
+          "lineNumber": 4,
+          "column": 2
         }
       },
       "c7419cfc-419a-45a6-866b-9f5ae3b68a69": {
@@ -77,7 +77,7 @@
       "773ab51f-4960-4f9d-b650-91f715678acc",
       "c7419cfc-419a-45a6-866b-9f5ae3b68a69"
     ],
-    "currentFileId": "773ab51f-4960-4f9d-b650-91f715678acc",
+    "currentFileId": "acd2efc2-e647-44ae-a39b-af1173bedaed",
     "resources": {},
     "customTemplate": {
       "syntax": "JSON",
@@ -108,7 +108,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1607338529781
+    "lastSave": 1607339025050
   },
   "VCS_STATE": {
     "provider": "GitHub",
